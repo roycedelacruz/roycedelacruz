@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Welcome to my GitHub profile! I'm Royce, a passionate beginner who started my journey into the world of coding a bit later than most. I'm excited to share my progress, projects, and learnings with you.
 <!--
 **roycedelacruz/roycedelacruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
